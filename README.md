@@ -7,7 +7,7 @@ Discovering Memory Functions and Governing Equations for Non-Fickian Transport i
 	case 4-6 for heterogeneous conductivity.
 	
 ## Brief start
-Directly run 'example_stm/ctrw.py' for streamtube model and Continous Time Random Walk respectively, and obtain the formula of memory function.
+Directly run 'example_stm/ctrw.py' for streamtube model (stm) and Continous Time Random Walk (ctrw) respectively, and obtain the formula of memory function.
 **'example_stm/ctrw.py' is a detailed example of discovery process.**
 
 ## To implement model discovery task: 
