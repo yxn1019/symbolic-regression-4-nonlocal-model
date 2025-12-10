@@ -28,13 +28,12 @@ Step 2. Embed the kernel formula into 'main_ctrw_sr.m'/'main_stm_sr.m' to get th
 > All the datasets have been smoothed by surrogate models and stored in folder 'model_save', if new scenarios is considered, you could use 'NN_ode.py' to smooth the data.
 
 ### The custom task:
-*CTRW*
+*CTRW*<br>
 Step 1. Put the custom dataset into folder 'dataset'.<br>
 Step 2. Run 'NN_ode.py' to obtain the high-quality data, and the results are saved in folder 'model_save', pay attention to file naming.<br>
 Step 3. Replace the old filename in 'example_ctrw_cr.py'(single detection point)/'example_ctrw_river.py'(multi-detection point) with the new one, and run the code. Then we obtain the memory kernel expression.<br>
 Step 4. Import the formula into 'main_ctrw_sr.m', and run the code to get the breakthrough curve.<br>
 *Streamtube model*<br>
-*CTRW*<br>
 Step 1. Put the custom dataset into folder 'dataset'.<br>
 Step 2. Run 'data_combine_stm_btc.m'/'data_combine_stm_snapshot.m' to obtain the pdf of velocity from breakthrough curve/snapshot observations, and the pdf data should be saved in folder 'dataset' with custom name.<br>
 Step 3. Import the pdf data (with custom name) into 'example_stm.py', and run the code. Then we obtain the memory kernel expression.<br>
