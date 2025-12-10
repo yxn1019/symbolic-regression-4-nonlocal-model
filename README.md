@@ -5,9 +5,10 @@ Discovering Memory Functions and Governing Equations for Non-Fickian Transport i
   'submission_sr.pdf' is the manuscript of our study, including 6 cases, where
 	case 1-3 for mass transfer,
 	case 4-6 for heterogeneous conductivity.
-
+	
+## Brief start
+Directly run 'example_stm/ctrw.py', and obtain the formula of memory function.
 **'example_stm/ctrw.py' is a detailed example of discovery process.**
-
 
 ## To implement model discovery task: 
 
