@@ -1,0 +1,10 @@
+name: sr
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - defaults
+dependencies:
+  - python=3.9
+  - spyder
+  - pytorch
+  - bayesian-optimization
+prefix: D:\Miniconda\envs\sr

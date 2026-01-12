@@ -1,0 +1,2 @@
+iter_num: 0      loss: 0.05779130    loss_validate: 0.05666887 
+iter_num: 1000      loss: 0.00129627    loss_validate: 0.00119832 

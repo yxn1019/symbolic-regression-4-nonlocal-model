@@ -1,0 +1,6 @@
+juliacall==0.9.30
+matplotlib==3.10.7
+numpy==2.3.5
+pysr==1.5.5
+scipy==1.16.3
+torch==2.5.1

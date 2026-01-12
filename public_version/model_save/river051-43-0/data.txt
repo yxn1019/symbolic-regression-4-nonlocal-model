@@ -1,0 +1,16 @@
+iter_num: 0      loss: 2.89185051    loss_validate: 72.36468118 
+iter_num: 1000      loss: 0.85079951    loss_validate: 5.03916843 
+iter_num: 2000      loss: 0.02752908    loss_validate: 0.14625242 
+iter_num: 3000      loss: 0.02201500    loss_validate: 0.20156428 
+iter_num: 4000      loss: 0.01918674    loss_validate: 0.37367799 
+iter_num: 5000      loss: 0.01830934    loss_validate: 0.55410143 
+iter_num: 6000      loss: 0.01489684    loss_validate: 0.61918172 
+iter_num: 7000      loss: 0.01508442    loss_validate: 0.54630357 
+iter_num: 8000      loss: 0.01444120    loss_validate: 0.52534456 
+iter_num: 9000      loss: 0.01395696    loss_validate: 0.49162785 
+iter_num: 10000      loss: 0.01380587    loss_validate: 0.48268238 
+iter_num: 11000      loss: 0.01427602    loss_validate: 0.47238972 
+iter_num: 12000      loss: 0.01356663    loss_validate: 0.47972844 
+iter_num: 13000      loss: 0.01385184    loss_validate: 0.46304829 
+iter_num: 14000      loss: 0.01305393    loss_validate: 0.47541669 
+iter_num: 15000      loss: 0.01247979    loss_validate: 0.48484927 
