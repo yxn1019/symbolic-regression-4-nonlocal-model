@@ -1,5 +1,5 @@
 # Manuscript Title
-Discovering Memory Functions and Governing Equations for Non-Fickian Transport in Aquatic Systems via Nonlocal Theory and Symbolic Regression
+Physics-Guided Symbolic Regression of Nonlocal Transport Memory from Sparse Observations in Aquatic Systems
 
 ## File description
 Folder 'dataset' includes the datasets in our manuscript;<br>
